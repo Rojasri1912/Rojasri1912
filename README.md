@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DcgSDKq7IfxMVyCJllwz4WFMWtvuOqq8/view?usp=drive_link](https://drive.google.com/file/d/1DcgSDKq7IfxMVyCJllwz4WFMWtvuOqq8/view?usp=drive_link)
 
 - ⚡ Fun fact **Funny**
- <img align="right" alt="Coding" width="400" src="The girl is coding the files.mp4">
+<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roja sri durga molleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roja sri durga molleti" height="30" width="40" /></a>
